@@ -67,7 +67,7 @@ Or
 
     **src/main/resources/application.properties**
      ```
-     server.port=8088
+     server.port=7080
     
      spring.datasource.url=jdbc:h2:mem:testdb
      spring.datasource.driverClassName=org.h2.Driver
