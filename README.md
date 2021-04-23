@@ -10,6 +10,7 @@ In this app we are using Spring Data JPA for built-in methods to do CRUD operati
 - [Maven](https://maven.apache.org/guides/index.html)
 - [H2 Database](https://www.h2database.com/html/main.html)
 - [Lombok](https://objectcomputing.com/resources/publications/sett/january-2010-reducing-boilerplate-code-with-project-lombok)
+- Git
 
 
 ## Tools
@@ -20,6 +21,10 @@ In this app we are using Spring Data JPA for built-in methods to do CRUD operati
 <br/>
 
 ###  Build and Run application
+> **``` First clone the repository from git clone https://github.com/ashish-bista-hub/m2-java-test.git ```**
+or
+> **``` Download the repo from https://github.com/ashish-bista-hub/m2-java-test/archive/refs/heads/main.zip ```**
+
 _GOTO >_ **~/absolute-path-to-directory/m2-msisdn**  
 and try below command in terminal
 > **```mvn spring-boot:run```** it will run application as spring boot application
