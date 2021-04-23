@@ -1,0 +1,13 @@
+MSISDN,SIM_TYPE,NAME,DATE_OF_BIRTH,GENDER,ADDRESS,ID_NUMBER
+00911234567890,Postpaid,Jason,11/02/1987,M,"Jaynagar-10, Bangalore, India",12JTRQ
+009771234567890,Prepaid,"Tom Cruise",11/02/1981,M,"Golfutar-10, Kathmandu, Nepal",12JTRW
++9771234564590,Postpaid,"Jeniffer Lopez",11/09/1981,F,"Hattigauda-10, Kathmandu, Nepal",14JTRW
+,,,,,,,
++912346789012,Postpaid,"Brad Pitt",09/11/1990,"Ashfield-20, Sydney, Australia",67ERQ
+009771234567890,Prepaid,"Rajesh Hamal",11/02/1981,M,"Golfutar-10, Kathmandu, Nepal",12JTRW
+009771234567899,CDMA,,11/02/1981,F,"Golfutar-10, Kathmandu, Nepal",12JTRW
+009771277567899,Prepaid,Deepak,13/02/1983,M,"Golfutar-19, Kathmandu, Nepal",12JWRW
+00912775678991,Prepaid,"Shirish Upreti",06/02/1983,Semale,"Noida-09, Uttar Pradesh, India",18JWRW
+00912072678991,Postpaid,"Daniel D",06/02/1983,Female,"UP, India",18JWRW
+00912074478991,Postpaid,"Shyam Adhikari",06/22/1981,male,"Sector-9, Gurgaon, Haryana, India",18%WRW
+0091212678932,Prepaid,"Mel Gibson",07/30/1982,m,"richmond, MN, 23456, USA",DFE90
